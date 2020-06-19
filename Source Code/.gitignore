@@ -82,5 +82,11 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+
+# gradle
+gradlew
+gradlew.bat
 /gradle/
+
+# intellij idea ide
 /.idea/
